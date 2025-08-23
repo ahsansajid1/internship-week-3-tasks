@@ -1,4 +1,3 @@
-
 # Week 3 - Python Internship Tasks
 
 This repository contains my **Week 3 Python Internship Tasks** covering different programming concepts and tools.  
@@ -34,6 +33,11 @@ This repository contains my **Week 3 Python Internship Tasks** covering differen
 7. **Practice Session**
    - Example programs and exercises related to above topics  
 
+8. **CLI Notes Manager (Mini Project)**
+   - Add, List, Search, and Delete Notes
+   - Notes saved in JSON file
+   - Fully menu-driven CLI program  
+
 ---
 
 ## 🛠️ How to Run
@@ -42,3 +46,6 @@ Clone this repository and run the Python files:
 git clone https://github.com/ahsansajid1/Week-3-Python-Tasks.git
 cd Week-3-Python-Tasks
 python file_read_write.py
+
+# Run CLI Notes Manager
+python cli_notes.py
